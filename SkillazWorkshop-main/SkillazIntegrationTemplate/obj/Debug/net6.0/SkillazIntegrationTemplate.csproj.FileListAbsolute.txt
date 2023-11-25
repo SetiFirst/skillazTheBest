@@ -1,0 +1,15 @@
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.csproj.AssemblyReference.cache
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.AssemblyInfoInputs.cache
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.AssemblyInfo.cs
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.csproj.CoreCompileInputs.cache
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\bin\Debug\net6.0\SkillazIntegrationTemplate.exe
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\bin\Debug\net6.0\SkillazIntegrationTemplate.deps.json
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\bin\Debug\net6.0\SkillazIntegrationTemplate.runtimeconfig.json
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\bin\Debug\net6.0\SkillazIntegrationTemplate.dll
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\bin\Debug\net6.0\SkillazIntegrationTemplate.pdb
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.dll
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\refint\SkillazIntegrationTemplate.dll
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.pdb
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\SkillazIntegrationTemplate.genruntimeconfig.cache
+C:\Users\user105\Desktop\SkillazWorkshop-main\SkillazIntegrationTemplate\obj\Debug\net6.0\ref\SkillazIntegrationTemplate.dll
